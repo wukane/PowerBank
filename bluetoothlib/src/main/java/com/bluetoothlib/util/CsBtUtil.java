@@ -13,9 +13,9 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import com.tool.util.LogUtil;
-import com.vfuchong.btlib.model.bt.BtGattAttr;
-import com.vfuchong.btlib.model.bt.CsDevice;
+
+import com.bluetoothlib.model.bt.BtGattAttr;
+import com.bluetoothlib.model.bt.CsDevice;
 
 import java.util.HashMap;
 import java.util.List;
