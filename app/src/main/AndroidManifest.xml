@@ -16,7 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".activity.RechargePhoneActivity"
+        <activity android:name=".activity.OutflowElectricityActivity"
             android:launchMode="singleTop"
             android:screenOrientation="portrait"
             android:theme="@style/NoBarAppTheme"/>

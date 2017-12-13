@@ -7,12 +7,13 @@ import com.powerbank.R;
 
 /**
  * Created by Administrator on 2017/12/13.
+ * 放电
  */
 
-public class RechargePhoneActivity extends Activity{
+public class OutflowElectricityActivity extends Activity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_recharge_phone);
+        setContentView(R.layout.activity_outflow_electricity);
     }
 }
