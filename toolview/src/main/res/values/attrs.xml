@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 头导航栏 -->
+    <declare-styleable name="dialView">
+        <attr name="sequence" format="integer" />
+    </declare-styleable>
+</resources>
